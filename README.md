@@ -8,7 +8,7 @@
 - ☕ [Coffee Style風ページ（模写）](https://soatot72413115.github.io/coffeestyle-mosha/)  
   初めての模写作品。グリッド配置・ヒーロー画像の再現に挑戦しました。
 
-- 🍎 [Apple公式風Webページ（模写）](https://soatot72413115.github.io/apple-clone/)  
+- 🍎 [Apple公式風Webページ](https://soatot72413115.github.io/apple-clone/)  
   レスポンシブ対応に注力し、ボタンや余白の調整にもこだわりました。
 
 ## 💻 今後の目標
